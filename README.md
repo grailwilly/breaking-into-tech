@@ -1,7 +1,7 @@
 # breaking-into-tech
 currently trying to shift careers in programming
 
-## How did I got interested in technology?
+### How did I got interested in technology?
 
 I got hooked with technology because of the growth of financial technologies like digital currency, crowdfunding, insurance, etc..
 
@@ -32,7 +32,7 @@ I got hooked with technology because of the growth of financial technologies lik
 ### Working Experience
   - Junior Developer   
     November 2017 - June 2019  
-    Switch Maven  
+    Switch Maven AU
     
 ### Portfolio
 
